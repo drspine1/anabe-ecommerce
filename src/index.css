@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #e2e2f8;
+}
+html{
+  overflow-x: hidden;
+}
+.links{
+  transition: 0.5s;
+}
+
+
+
+
